@@ -38,3 +38,5 @@ elif current_language == "fr_FR":
 
 # if __name__ == "__main__": 
 print (msg)  # Built-in
+
+print ("1+1") # Expressão/Expression
