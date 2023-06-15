@@ -30,6 +30,7 @@ for nome_atividade, atividade in atividades:
     atividade_sala1 = []
     atividade_sala2 = []
 
+    # Complexidade O(n)
     for aluno in atividade:
         if aluno in sala1:
             atividade_sala1.append(aluno)
